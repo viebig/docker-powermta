@@ -1,0 +1,13 @@
+product: PowerMTA
+version: 4.5
+platform: linux-intel
+units: 
+options: 
+mac:
+licensee: 
+serial: 
+comment: PMTA v4.5
+issued:
+expires: 
+copyright: Port25 Solutions, Inc.  All Rights Reserved
+check: 
